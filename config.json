@@ -1,0 +1,16 @@
+{
+    "host": "localhost",
+    "port": 7000,
+    "rcon": {
+        "port": 25575,
+        "password": "1234567890"
+    },
+    "query": {
+        "port": 25565
+    },
+    "response": {
+        "successCode": 200,
+        "successDescription": "success",
+        "failed": "failed"
+    }
+}
