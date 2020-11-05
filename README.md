@@ -4,22 +4,22 @@
 ![alt text](/assets/api-structure.png)
 
 ## Installation
->**Required**
->[Minecraft server-rcon](https://github.com/MrFermz/server-rcon)
->[Node.js >= 12.19.0](https://nodejs.org/en/download/)
+**Required**
+- [Minecraft server-rcon](https://github.com/MrFermz/server-rcon)
+- [Node.js >= 12.19.0](https://nodejs.org/en/download/)
 
->**Optional**
->[Git bash >= 2.29.2](https://git-scm.com/downloads)
+**Optional**
+- [Git bash >= 2.29.2](https://git-scm.com/downloads)
 
 ## Get started
 ### English
 
 >**Windows**
-`1. Download and unzip`
+1. Download and unzip
 
 >**Linux**
-`1. Open Terminal`
-`2. git clone https://github.com/MrFermz/server-rcon-api`
+1. Open Terminal
+2. git clone https://github.com/MrFermz/server-rcon-api
 3. Edit config file in `config.json`
 ``` json
     {
@@ -40,14 +40,13 @@
 7. Have fun.
 
 ### ภาษาไทย
-_**หมายเหตุ :** ต้องเปิด API ก่อนทุกครั้ง_
 
 >**Windows**
-`1. โหลดมาแล้วแตกไฟล์`
+1. โหลดมาแล้วแตกไฟล์
 
 >**Linux**
-`1. เปิด Terminal`
-`2. git clone https://github.com/MrFermz/server-rcon-api`
+1. เปิด Terminal
+2. git clone https://github.com/MrFermz/server-rcon-api
 3. แก้ไขไฟล์เพื่อตั้งค่าเซิฟเวอร์ตัวเอง `config.json`
 ``` json
     {
